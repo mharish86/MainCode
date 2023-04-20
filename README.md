@@ -1,3 +1,2 @@
 # MainCode
-Go on
-I am editing the README file. Adding some more details about the project description.
+Adding some more details about the project description.
